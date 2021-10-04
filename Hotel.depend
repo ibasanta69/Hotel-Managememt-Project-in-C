@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633168556 source:c:\users\death empire\desktop\c\hotel\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+
